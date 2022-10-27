@@ -33,7 +33,6 @@
 				&trans &none &trans &trans &trans &trans &trans &trans &trans &trans &trans &kp RPAR &trans  &kp PG_UP &kp C_PP
 				&trans &trans  &trans              &trans                            &trans  &trans &kp HOME   &kp PG_DN &kp END
 			>;
-			sensor-bindings = <&inc_dec_kp COMMA DOT>;
 		};
 		super {
 			bindings = <
